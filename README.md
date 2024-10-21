@@ -1,4 +1,4 @@
-# Sistemas de Gerenciamento Integrados: Clínica Médica, Eventos e Restaurante
+# Sistemas de Gerenciamento Integrados: Clínica Médica, Eventos e Restaurante 
 
 ### Integrantes do Projeto: Nunno Wakiyama Diniz Carvaho, Pedro Henrique Mendes Macedo, Ricardo Nery de Brito Junior, Matheus Fabiano Barbosa Aguiar e Noemi Soares Gonçalves da Silva
 
